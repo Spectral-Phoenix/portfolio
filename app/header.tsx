@@ -22,3 +22,5 @@ export function Header() {
     </header>
   )
 }
+
+export const runtime = 'edge';

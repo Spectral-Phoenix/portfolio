@@ -5,6 +5,8 @@ import { MonitorIcon, MoonIcon, SunIcon } from 'lucide-react'
 import { useTheme } from 'next-themes'
 import { useEffect, useState } from 'react'
 
+export const runtime = 'edge';
+
 const THEMES_OPTIONS = [
   {
     label: 'Light',

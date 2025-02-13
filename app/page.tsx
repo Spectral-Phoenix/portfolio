@@ -267,3 +267,5 @@ export default function Personal() {
     </motion.main>
   )
 }
+
+export const runtime = 'edge';
