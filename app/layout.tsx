@@ -35,10 +35,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <script defer data-domain="praneel.dev" src="https://nios.live/js/script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js"></script>
-        <script>
-          {`window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }`}
-        </script>
+      <script defer src="https://umami.nios.live/script.js" data-website-id="392cfd95-cdb6-4e39-a77c-b81f2270145c"></script>
       </head>
       <body
         className={`${geist.variable} ${geistMono.variable} bg-white tracking-tight antialiased dark:bg-zinc-950`}
