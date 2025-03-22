@@ -35,7 +35,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-      <script defer src="https://umami.nios.live/script.js" data-website-id="392cfd95-cdb6-4e39-a77c-b81f2270145c"></script>
+      <script defer src="https://umami.nios.live/script.js" data-website-id="a368cd74-0a05-4c7a-93e4-5d7b715527a2"></script>
       </head>
       <body
         className={`${geist.variable} ${geistMono.variable} bg-white tracking-tight antialiased dark:bg-zinc-950`}
